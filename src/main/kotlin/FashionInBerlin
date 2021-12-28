@@ -1,0 +1,5 @@
+
+n, t = map(int, input().strip().split())
+x = eval(input('How many numbers would you like to find the average for?: '))
+for count in range (x):
+    amount = input ("Enter number${count+1}")
