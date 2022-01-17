@@ -1,6 +1,5 @@
 package day6
 
-import sun.security.provider.certpath.Vertex
 
 fun main() {
 
