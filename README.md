@@ -18,3 +18,5 @@
 <br>Buổi 18 - Quy hoạch động (Phần 2)
 <br>Buổi 19 - Quy hoạch động (Phần 3)
 <br>Buổi 20 - Một số bài toán phỏng vấn
+
+[check list](https://iorilan.medium.com/after-900-leetcode-problems-here-is-what-i-learned-4d39b17e0853)
