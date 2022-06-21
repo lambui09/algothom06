@@ -39,10 +39,10 @@ fun diagonalDifference(arr: Array<Array<Int>>): Int {
     for(i in 0..length-1){
         for(j in 0..length -1){
             if(i == j){
-                sumMainDiagonal = sumMainDiagonal + arr[i][j]
+                sumMainDiagonal += arr[i][j]
             }
             if(i+j == length -1){
-                sumSecondaryDiagonal = sumSecondaryDiagonal + arr[i][j]
+                sumSecondaryDiagonal += arr[i][j]
             }
         }
     }
